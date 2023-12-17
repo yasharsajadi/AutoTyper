@@ -29,7 +29,7 @@ Alt+A Key: `*alt+*a`
 `/heal 1*enter*/shock 2*ctrl+*a`
 
 <p align="center">
-  <img src="https://github.com/yasharsajadi/QR-Bar-Code-Generator/blob/master/Example.png" width="800">
+  <img src="https://github.com/yasharsajadi/AutoTyper/blob/master/Example.png" width="800">
 </p>
 
 
